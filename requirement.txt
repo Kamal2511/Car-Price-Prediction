@@ -13,6 +13,8 @@ decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints==0.3
 environment-kernels==1.1.1
+Flask==1.1.1
+gunicorn=19.9.0
 importlib-metadata @ file:///C:/ci/importlib-metadata_1617877486026/work
 ipykernel @ file:///C:/ci/ipykernel_1629995226541/work/dist/ipykernel-6.2.0-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1628244014088/work
